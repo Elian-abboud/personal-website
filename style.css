@@ -57,7 +57,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/front-end-developer.jpg) no-repeat;
+  background: url(front-end-developer.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }

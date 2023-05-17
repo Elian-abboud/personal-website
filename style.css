@@ -218,8 +218,8 @@ section {
   display: inline-block; /* or any other display property */
   border-radius: 50%; /* this will create a circular shape */
   overflow: hidden; /* this will hide the content outside the circle */
-  height: 150px; /* adjust height as needed */
-  width: 150px; /* adjust width as needed */
+  height: 110px; /* adjust height as needed */
+  width: 110px; /* adjust width as needed */
 }
 
 .rounded-image {

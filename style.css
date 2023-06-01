@@ -154,10 +154,11 @@ section {
   margin-top: 20px;
 }
 .work_card {
-  background-color: whitesmoke;
-  border: 6px solid whitesmoke;
+  background-color: rgb(255, 255, 255);
+  padding-left: 10px;
+  border: 8px solid rgb(255, 255, 255);
   min-height: 14em;
-  width: 25em;
+  width: 40em;
   overflow: hidden;
   border-radius: 10px;
   margin: 20px;

@@ -45,7 +45,6 @@ header {
   padding-left: 30px; /*التباعد بين العناصر */
 }
 .navigation a:hover {
-  /* ?معناها عند مرور الماوس عليها ماذا يحدث*/
   color: aqua;
 }
 
@@ -57,24 +56,23 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/front-end-developer.jpg) no-repeat;
-  background-size: cover;
+  background: url(images/front2.png) no-repeat;
   background-position: center center;
 }
 .main h2 {
   padding-top: 200px;
-  color: rgb(234, 234, 4);
+  color: rgb(5, 18, 103);
   font-size: 2em;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 3px;
   text-align: left;
   font-style: italic;
 }
 
 .main h3 {
-  color: rgb(234, 234, 4);
+  color: rgb(5, 18, 103);
   font-size: 2em;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 0px;
   text-align: left;
   font-style: italic;

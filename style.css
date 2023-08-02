@@ -51,17 +51,19 @@ header {
 section {
   padding: 100px 150px;
 }
+
 .main {
   width: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/front2.png) no-repeat;
+  background: url(code.gif) no-repeat;
   background-position: center center;
+  background-size: cover;
 }
 .main h2 {
-  padding-top: 200px;
-  color: rgb(5, 18, 103);
+  padding-top: 100px;
+  color: rgb(234, 234, 4);
   font-size: 2em;
   font-weight: 700;
   letter-spacing: 3px;
@@ -70,7 +72,7 @@ section {
 }
 
 .main h3 {
-  color: rgb(5, 18, 103);
+  color: rgb(234, 234, 4);
   font-size: 2em;
   font-weight: 700;
   letter-spacing: 0px;
